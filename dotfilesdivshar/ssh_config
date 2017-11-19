@@ -1,5 +1,0 @@
-# This one is for caen ssh
-Host cn
-	HostName oncampus-course.engin.umich.edu
-	User divshar
-	Compression yes
